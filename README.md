@@ -1,34 +1,3 @@
-## 🧰 Tech Stack Overview
-
-![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-Developer-239120?style=for-the-badge&logo=csharp)
-
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-0A66C2?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-Design%20Driven-FF6F00?style=for-the-badge)
-![BDD](https://img.shields.io/badge/BDD-Behavior%20Driven%20Development-6DB33F?style=for-the-badge)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-Analytics-F5B041?style=for-the-badge)
-
-![Kafka](https://img.shields.io/badge/Kafka-Event%20Streaming-231F20?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=for-the-badge&logo=rabbitmq)
-![Dapr](https://img.shields.io/badge/Dapr-Service%20Mesh-0A0A0A?style=for-the-badge)
-
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
-
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D7?style=for-the-badge&logo=azuredevops)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
-
-![Airflow](https://img.shields.io/badge/Airflow-Data%20Pipelines-017CEE?style=for-the-badge&logo=apacheairflow)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python)
-
-![Serilog](https://img.shields.io/badge/Logging-Serilog-000000?style=for-the-badge)
-![Testing](https://img.shields.io/badge/Testing-xUnit%20%7C%20TDD-6DB33F?style=for-the-badge)
-
 # Hi, I'm Guilherme Martinelli 👋
 
 ## Tech Lead | .NET | Distributed Systems | Microservices | Cloud Architecture
@@ -64,42 +33,44 @@ I specialize in designing and delivering high-performance systems, leading engin
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack Overview
 
 ### Backend
-- .NET (Core / 6 / 10)
-- C#, ASP.NET Core
-- REST APIs, WebSocket
-- Entity Framework Core
+![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=for-the-badge)
 
-### Databases
-- SQL Server
-- PostgreSQL
-- MongoDB
-- Redis (Caching)
-- ClickHouse (Analytics / High-performance querying)
+### Architecture
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Principles-FF6F00?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-Domain_Driven-FF6F00?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event_Driven-Architecture-0A66C2?style=for-the-badge)
 
-### Messaging & Eventing
-- RabbitMQ
-- Kafka
-- Dapr (service-to-service communication & Kafka abstraction)
+### Data & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-Analytics-F5B041?style=for-the-badge)
 
-### Data Engineering & Pipelines
-- Apache Airflow (data pipelines & orchestration)
-- Python (basic DAGs & automation scripts)
-  
-### DevOps & Infrastructure
-- Docker / Docker Compose
-- Kubernetes (Rancher, K9s)
-- Azure DevOps (CI/CD YAML)
-- Terraform (Infrastructure as Code - beginner)
-- Git / GitLab / GitHub
+### Messaging & Streaming
+![Kafka](https://img.shields.io/badge/Kafka-Event_Streaming-231F20?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-FF6600?style=for-the-badge&logo=rabbitmq)
+![Dapr](https://img.shields.io/badge/Dapr-Service_To_Service-0A0A0A?style=for-the-badge)
 
-### Observability & Testing
-- Serilog
-- xUnit, FluentAssertions
-- SonarQube
-- Postman / Swagger
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D7?style=for-the-badge&logo=azuredevops)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
+
+### Data Engineering
+![Airflow](https://img.shields.io/badge/Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python)
+
+### Quality & Observability
+![Serilog](https://img.shields.io/badge/Logging-Serilog-000000?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-xUnit_TDD-6DB33F?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/Code_Quality-SonarQube-4E9BCD?style=for-the-badge)
 
 ---
 
@@ -128,25 +99,27 @@ I specialize in designing and delivering high-performance systems, leading engin
 ## 🚀 Featured Projects
 
 ### 📊 AssetVariation API
-Financial asset pricing system built with .NET 10, Clean Architecture and event-driven design principles.
+Financial asset pricing system built with .NET 10, Clean Architecture and distributed system patterns.
 
-- Chain of Responsibility pipeline
-- PostgreSQL + Docker
-- MemoryCache optimization
-- Yahoo Finance integration
-- Data persistence + deduplication logic
+Key highlights:
+- Chain of Responsibility pipeline architecture
+- External API integration (Yahoo Finance)
+- Cache-first strategy (MemoryCache)
+- Idempotent persistence (PostgreSQL + EF Core)
+- Dockerized full environment
 
 👉 https://github.com/guizama/AssetVariation
 
 ---
 
 ### 📰 HackerNews BestStories API
-High-performance API that aggregates and ranks Hacker News stories.
+High-performance API focused on external aggregation and scalability.
 
-- External API aggregation
-- In-memory caching strategy
+Key highlights:
+- External API orchestration
 - Parallel processing optimization
+- Caching strategy for performance
 - Resilience patterns (retry + fallback)
-- Clean architecture principles
+- Clean Architecture design
 
 👉 https://github.com/guizama/HackerNews-BestStories
