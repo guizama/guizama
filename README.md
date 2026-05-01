@@ -6,9 +6,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guizama&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guizama&show_icons=true&theme=radical&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guizama&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guizama&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guizama&layout=compact&theme=tokyonight)
 
 # Hi, I'm Guilherme Martinelli 👋
 
