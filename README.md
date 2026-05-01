@@ -5,6 +5,7 @@
 
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-0A66C2?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD-Design%20Driven-FF6F00?style=for-the-badge)
+![BDD](https://img.shields.io/badge/BDD-Behavior%20Driven%20Development-6DB33F?style=for-the-badge)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver)
@@ -41,7 +42,7 @@ I specialize in designing and delivering high-performance systems, leading engin
 ## 🚀 About Me
 
 - 👨‍💻 Tech Lead working with .NET (C#) and distributed systems
-- 🏗️ Strong focus on Clean Architecture, DDD, and Microservices
+- 🏗️ Strong focus on Clean Architecture, DDD, BDD and Microservices
 - ☁️ Experience with cloud environments (Azure)
 - ⚡ Passion for high-performance, event-driven architectures
 - 👥 Leading teams, mentoring engineers, and driving technical decisions
