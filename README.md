@@ -1,3 +1,15 @@
+![.NET](https://img.shields.io/badge/.NET-10-blue?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-Developer-purple?style=for-the-badge&logo=csharp)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue?style=for-the-badge&logo=docker)
+![Cloud](https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guizama&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guizama&layout=compact)
+
 # Hi, I'm Guilherme Martinelli 👋
 
 ## Tech Lead | .NET | Distributed Systems | Microservices | Cloud Architecture
