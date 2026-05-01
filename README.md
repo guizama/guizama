@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./images/banner-light.png">
-    <img src="./images/banner-dark.png" alt="Guilherme Martinelli Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="./images/banner_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./images/banner_light.png">
+    <img src="./images/banner_dark.png" alt="Guilherme Martinelli Banner" />
   </picture>
 </p>
 
