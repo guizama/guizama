@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./images/banner-light.png">
+    <img src="./images/banner-dark.png" alt="Guilherme Martinelli Banner" />
+  </picture>
+</p>
+
 # Hi, I'm Guilherme Martinelli 👋
 
 ## Tech Lead | .NET | Distributed Systems | Microservices | Cloud Architecture
