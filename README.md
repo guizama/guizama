@@ -1,6 +1,6 @@
-<p align="center">
+[<p align="center">
   <img src="./images/banner.png" alt="Guilherme Martinelli - Tech Lead .NET" width="100%" />
-</p>
+</p>](url)
 
 # Hi, I'm Guilherme Martinelli 👋
 
