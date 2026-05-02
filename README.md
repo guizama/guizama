@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/banner_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./images/banner_light.png">
-    <img src="./images/banner_dark.png" alt="Guilherme Martinelli Banner" />
-  </picture>
+  <img src="./images/banner.png" alt="Guilherme Martinelli - Tech Lead .NET" width="100%" />
 </p>
 
 # Hi, I'm Guilherme Martinelli 👋
