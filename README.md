@@ -112,7 +112,7 @@ Key highlights:
 - Idempotent persistence (PostgreSQL + EF Core)
 - Dockerized full environment
 
-👉 https://github.com/guizama/AssetVariation
+👉 [AssetVariation](https://github.com/guizama/AssetVariation)
 
 ---
 
@@ -126,4 +126,21 @@ Key highlights:
 - Resilience patterns (retry + fallback)
 - Clean Architecture design
 
-👉 https://github.com/guizama/HackerNews-BestStories
+👉 [HackerNews-BestStories](https://github.com/guizama/HackerNews-BestStories)
+
+---
+
+### 📰 SmartVault Challenge
+
+Technical challenge focused on improving and extending an existing .NET codebase with emphasis on performance, maintainability, and testability.
+
+Key highlights:
+- Existing codebase refactoring and extension
+- Source Generators for business object generation
+- Chain of Responsibility pipeline architecture
+- SQLite + Dapper data access
+- File-system based processing and validation
+- Performance optimization for bulk data generation
+- Automated tests with xUnit
+
+👉 [SmartVault Repository](https://github.com/guizama/SmartVault)
