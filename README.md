@@ -116,6 +116,26 @@ Key highlights:
 
 ---
 
+### 🤖 LLM Benchmark API
+
+Benchmarking and evaluation platform for Large Language Models focused on SMS generation, rewrite quality, token estimation accuracy, and AI validation pipelines.
+
+Key highlights:
+- Multi-model LLM benchmarking pipeline
+- Scenario-driven evaluation system
+- Deterministic + heuristic validators
+- LLM-as-a-Judge evaluation architecture
+- Token estimation and tokenizer accuracy tracking
+- SMS optimization and segment calculation
+- PostgreSQL persistence with EF Core
+- Minimal API architecture with provider abstraction
+- Prompt injection and safety validation
+- GitHub Models integration via LlmTornado
+
+👉 [LLMBenchmark](https://github.com/guizama/LLMBenchmark)
+
+---
+
 ### 📰 HackerNews BestStories API
 High-performance API focused on external aggregation and scalability.
 
